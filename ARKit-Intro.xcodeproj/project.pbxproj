@@ -56,12 +56,12 @@
 		3DF7672C1F6994310036E2BF /* ARKit-Intro */ = {
 			isa = PBXGroup;
 			children = (
-				3DF7672D1F6994310036E2BF /* AppDelegate.swift */,
-				3DF7672F1F6994310036E2BF /* art.scnassets */,
 				3DF767311F6994310036E2BF /* ViewController.swift */,
 				3DF767331F6994310036E2BF /* Main.storyboard */,
+				3DF7672F1F6994310036E2BF /* art.scnassets */,
 				3DF767361F6994310036E2BF /* Assets.xcassets */,
 				3DF767381F6994310036E2BF /* LaunchScreen.storyboard */,
+				3DF7672D1F6994310036E2BF /* AppDelegate.swift */,
 				3DF7673B1F6994310036E2BF /* Info.plist */,
 			);
 			path = "ARKit-Intro";
